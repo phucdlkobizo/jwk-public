@@ -1,4 +1,5 @@
-{
+[
+    {
     "kty": "RSA",
     "use": "sig",
     "alg": "RS256",
@@ -6,3 +7,4 @@
     "n": "vjnp7W8tWDkj2NHLyvXRKiQB1cwClj4JvG0Ie-ollLwRwuNAJCijW9Mtc1Hc7TIOZUDDbmec8sbyJDW8XJu6Jw",
     "e": "AQAB"
 }
+    ]
